@@ -1,4 +1,4 @@
-# Project VIC International Code of Conduct
+# Project VIC International Online Community Code of Conduct
 
 ## Our Pledge
 This Online Community Code of Conduct takes inspiration from Project VIC International's organizational Code of Conduct by which we hold our board members, employees, steering committee members, and volunteers. We realize that we engage with a very broad and diverse set of people through our engagements on Github, and, from time-to-time, on other community technology platforms. This document provides the Online Community Code of Conduct that we hold our online collaborators to.
