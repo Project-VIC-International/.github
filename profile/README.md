@@ -24,7 +24,15 @@ This may help them determine if a victim is local. We are planning to release Il
 [VICPoint](https://www.projectvic.org/vic-point) — A system that processes file system tree from one or more endpoints to determine if the file path is indicitive of the presence of child sexual abuse and exploitation material.
 VICPoint is free to law enforcement (via license) and available to corporate trust and safety teams (via license for a fee).
 
-Standards & Ontologies — contributions to CASE/UCO and domain extensions that enable interoperable evidence graphs.
+Standards & Ontologies:
+
+[Crimes Against Children "CAC" Ontology](https://site.cacontology.projectvic.org) - An open-source project under an Apache 2.0 license that collects and organizes as many of the language and data concepts used in the crimes against children domain of discourse. This project aligns new concept namespaces (i.e.; CAC topic categories - like grooming or trafficking), classes (i.e.; things), properties (i.e.; properties that describe classes) and relationships (i.e.; how things are related). 
+
+[Crimes Against Children "CAC" Ontology Documentation](https://cacontology.projectvic.org) - An accessible ontodocs website for resolving the CAC Ontology namespaces, classes, properties and relationships. This documentation site is natively accessible to AI Agents.
+
+[Crimes Against Children "CAC" Ontology repository](https://github.com/Project-VIC-International/CAC-Ontology) - The Github repo for the CAC Ontology. We have published a lengthy [AI Agent Chain of Thought Prompt](https://github.com/Project-VIC-International/CAC-Ontology/blob/main/prompt.md) that you can use to collect and convert any information source within the CAC domain of discourse into serialized CAC Ontology graph. Want to convert all of your digital forensics reports, investigator notes, charging documents, court tesimony, offender interrogations, offender chat/comms, etc into an intelligence repository graph data base? This is how you do it. Contact support@projectvic.zendesk.com if you want to see how this works.
+
+We are also adopters of the Linux Foundation's Cyber Domain Ontology CASE Investigation Ontology and Cyber Domain Ontology project. Using CASE,UCO, and CAC Ontologies together it is now possible to semantically model most concepts used within the CAC Domain of discourse weather the concepts are in the physical or cyber domain or a mixture of both.
 
 Training & Community — practical guides, workshops, and reference integrations across common DFIR tools.
 
@@ -114,7 +122,7 @@ Every contribution—code, docs, reviews, or hardware—helps investigators save
 
 ##🍿 Fun fact
 
-Many of us are DFIR nerds, computer and AI scientists, and former ICAC investigators. We do our best to stand on the shoulders of the giants that came before us to make the world a safer place for children.
+Many of us are DFIR nerds, computer and AI scientists, and former ICAC investigators and prosecutors. We do our best to stand on the shoulders of the giants that came before us to make the world a safer place for children.
 
 ## Thank you
 
