@@ -11,7 +11,7 @@ Consider making a one-time or monthly [donation](https://secure.givelively.org/d
 Enroll crimes against children investigators and digital forensics examiners into the [Project VIC hash intelligence ecosystem](https://www.projectvic.org/get-hashes). This is a key intelligence resource and it is FREE to sworn officers.
 We work with [Kindred Tech](https://kindredtech.org/) to help digital forensics tool vendors license and adopt the [VICS Data Model](https://www.projectvic.org/vics-data-model) so their customers can leverage Project VIC hash intelligence.
 
-We license [PhotoDNA](https://www.projectvic.org/photo-dna) to law enforcement agencies and digital forensics tool vendors. PhotoDNA is a key technology that helps investigators cluster visually similar images to reduce their exposure to child sexual abuse and exploitation material.
+We license [PhotoDNA](https://www.projectvic.org/photo-dna) to law enforcement agencies and digital forensics tool vendors at no cost. PhotoDNA is a key technology that helps investigators cluster visually similar images to reduce their exposure to child sexual abuse and exploitation material.
 
 [GPUs for Good](https://www.gpusforgood.org) — a new initiative started in 2025 that repurposes donated GPUs for accredited ICAC labs and digital forensics units to accelerate AI-assisted triage and analysis. GPUs are free upon request (pending availability) from an ICAC Investigator or supporting digital forensics examiner, or an ICAC Commander.
 
