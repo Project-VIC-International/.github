@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Project VIC International is a non-profit 501(c)(3), EIN 83-0986212, that builds and stewards technology to help law-enforcement identify, rescue, and protect children from sexual exploitation. We focus on tools, standards, and partnerships that make investigators faster, safer, and more effective—Victims First.
+Project VIC International is a non-profit 501(c)(3), EIN 83-0986212, that builds and stewards technology to help law-enforcement identify, rescue, and protect children from sexual exploitation. We focus on tools, standards, and partnerships that make investigators faster, safer, and more effective. Victims First!
 
 Financial donations help us fund our mission to help enable thousands of law enforcement officers around the world who work each day to find and rescue children from sexual exploitation and abuse. 
 
